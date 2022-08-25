@@ -1,4 +1,4 @@
-<center>### hi</center>
+<center>hi</center>
 
 <!--
 **YirenYiren/YirenYiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
