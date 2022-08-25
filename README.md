@@ -13,13 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # *<div align="center">Hi,I'm WuChang🍊</div>*  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YirenYiren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-----
